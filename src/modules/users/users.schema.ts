@@ -1,5 +1,5 @@
-import { pgTable, text } from "drizzle-orm/pg-core";
+import { pgTable, text, uuid } from "drizzle-orm/pg-core";
 
 export const users = pgTable("users", {
-	id: text("id").notNull().primaryKey(),
+	id: uuid("id").notNull().primaryKey(),
 });

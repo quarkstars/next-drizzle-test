@@ -8,6 +8,13 @@
       "when": 1699992336677,
       "tag": "0000_secret_solo",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1700013970901,
+      "tag": "0001_square_golden_guardian",
+      "breakpoints": true
     }
   ]
 }

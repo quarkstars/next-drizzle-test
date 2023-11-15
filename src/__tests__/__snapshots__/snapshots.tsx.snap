@@ -27,8 +27,7 @@ exports[`renders homepage unchanged 1`] = `
           rel="noopener noreferrer"
           target="_blank"
         >
-          By
-           
+          By Someone
           <img
             alt="Vercel Logo"
             class="dark:invert"
@@ -150,7 +149,7 @@ exports[`renders homepage unchanged 1`] = `
         <p
           class="m-0 max-w-[30ch] text-sm opacity-50"
         >
-          Instantly deploy your Next.js site to a shareable URL with Vercel.
+          Instantly deploy your Next.js
         </p>
       </a>
     </div>
