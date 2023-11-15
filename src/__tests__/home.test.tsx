@@ -6,7 +6,7 @@ describe("Home", () => {
 		render(<Home />);
 
 		const myElem = screen.getByText("Docs");
-
+		//@ts-ignore TODO: Fix this
 		expect(myElem).toBeInTheDocument();
 	});
 });
